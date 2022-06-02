@@ -21,5 +21,18 @@
     "postcss": "^8.4.4",
     "tailwindcss": "^2.2.19",
     "typescript": "4.4.4"
-  }
+  },
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qin-salon/study-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qin-salon/study-typescript/issues"
+  },
+  "homepage": "https://github.com/qin-salon/study-typescript#readme",
+  "description": ""
 }
